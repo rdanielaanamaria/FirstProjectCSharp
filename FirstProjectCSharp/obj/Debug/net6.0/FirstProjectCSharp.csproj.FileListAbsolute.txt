@@ -1,0 +1,15 @@
+C:\Daniela\#C\Projects\FirstProjectCSharp\FirstProjectCSharp\bin\Debug\net6.0\FirstProjectCSharp.exe
+C:\Daniela\#C\Projects\FirstProjectCSharp\FirstProjectCSharp\bin\Debug\net6.0\FirstProjectCSharp.deps.json
+C:\Daniela\#C\Projects\FirstProjectCSharp\FirstProjectCSharp\bin\Debug\net6.0\FirstProjectCSharp.runtimeconfig.json
+C:\Daniela\#C\Projects\FirstProjectCSharp\FirstProjectCSharp\bin\Debug\net6.0\FirstProjectCSharp.dll
+C:\Daniela\#C\Projects\FirstProjectCSharp\FirstProjectCSharp\bin\Debug\net6.0\FirstProjectCSharp.pdb
+C:\Daniela\#C\Projects\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net6.0\FirstProjectCSharp.csproj.AssemblyReference.cache
+C:\Daniela\#C\Projects\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net6.0\FirstProjectCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniela\#C\Projects\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net6.0\FirstProjectCSharp.AssemblyInfoInputs.cache
+C:\Daniela\#C\Projects\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net6.0\FirstProjectCSharp.AssemblyInfo.cs
+C:\Daniela\#C\Projects\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net6.0\FirstProjectCSharp.csproj.CoreCompileInputs.cache
+C:\Daniela\#C\Projects\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net6.0\FirstProjectCSharp.dll
+C:\Daniela\#C\Projects\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net6.0\refint\FirstProjectCSharp.dll
+C:\Daniela\#C\Projects\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net6.0\FirstProjectCSharp.pdb
+C:\Daniela\#C\Projects\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net6.0\FirstProjectCSharp.genruntimeconfig.cache
+C:\Daniela\#C\Projects\FirstProjectCSharp\FirstProjectCSharp\obj\Debug\net6.0\ref\FirstProjectCSharp.dll
