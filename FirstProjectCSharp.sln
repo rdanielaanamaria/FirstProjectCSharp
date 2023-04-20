@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Blend for Visual Studio Version 17
+# Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstProjectCSharp", "FirstProjectCSharp\FirstProjectCSharp.csproj", "{55B45886-B596-424A-A349-35535C9531D0}"

@@ -96,7 +96,7 @@ public class Exercises
     public static void Exercise5()
     {
         int number, sum = 0, modulus;
-        Console.WriteLine("Enter a number: ");
+        Console.WriteLine("Enter a number containing from multiple digits: ");
         number = int.Parse(Console.ReadLine());
         while(number>0)
         {
